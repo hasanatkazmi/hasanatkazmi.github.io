@@ -1,0 +1,197 @@
+body {
+    background-color: #FFFFFF;
+    color: #333;
+    font-family: 'Garamond', ‘Palatino Linotype’, ‘Book Antiqua’, Palatino, serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+div.toc a, a {
+    color: #515151;
+    text-decoration: none;
+}
+
+div.toc {
+    border-top: 1px solid #333333;
+}
+
+div.toc div {
+    padding: 15px;
+    border-bottom: 1px solid #333333;
+}
+
+div.toc div:hover {
+    background-color: #EEEEEE;
+}
+
+.post a {
+    color: #00B4FF;
+    text-decoration: none;
+}
+
+.content {
+    text-align: left;
+    width: 100%;
+}
+
+.name {
+    text-align: center;
+    margin: auto;
+    padding: 0px;
+    font-size: 25px;
+    width: 700px;
+}
+
+.header {
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+}
+
+
+.section .post, .secion .post .section {
+    padding: 0px;
+    margin: auto;
+    font-size: 22px;
+    width: 700px;
+}
+
+.section {
+    margin-top: 10px;
+    margin-left: 400px;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.section {
+    margin: 0px;
+    font-size: 22px;
+    width: 100%;
+    border-top: 3px solid #404040;
+    border-bottom: 3px solid #404040;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.post {
+    margin: 0px auto;
+    text-align: justify;
+    padding: 25px;
+    padding-top: 0px;
+    width: 700px;
+    line-height: 30px;
+}
+
+.highlight {
+    line-height: 25px;
+}
+
+.post a:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+    text-align: right;
+}
+
+table.prev_next {
+    width: 100%;
+    font-size: 22px;
+}
+
+td.prev {
+    text-align: right;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.author {
+    text-align: center;
+    font-size: 22px;
+}
+
+
+td.toc {
+    text-align: center;
+}
+
+.top_prev .prev, .top_prev .next{
+    width: 120px;
+}
+
+div.highlight {
+    font-size: 15px;
+    width: 680px;
+    overflow: auto;
+    padding: 10px;
+    border: 1px solid #888888;
+}
+
+div.toc {
+    margin-top: 10px;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+div.toc a:hover {
+    left: 3px;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#disqus_thread {
+    margin-top: 30px;
+}
+
+body {
+    background-color: #FFFFFF;
+    color: #515151;
+}
+
+.header, .header a {
+}
+
+.author, .author a {
+}
+
+.subtitle, .subtitle a {
+}
+
+.toc {
+}
+
+.section {
+}
+
+.post {
+}
+
+.about_me {
+    border: 2px solid #333;
+    padding: 15px;
+    margin-bottom: 15px;
+    text-align: justify;
+    background-color: #EEEEEE;
+}
+
+.about {
+    padding-right: 15px;
+    font-size: 20px;
+}
+
+.about_me img {
+    border: 2px solid #333;
+}
